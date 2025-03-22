@@ -5,7 +5,9 @@ target/
 !**/src/test/**/target/
 
 google-cloud-sdk/
- 
+
+.google-cloud-cli-456.0.0-darwin-arm.tar.gz
+
 ### STS ###
 .apt_generated
 .classpath
@@ -33,3 +35,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+
